@@ -1,0 +1,3 @@
+@Imports BlazingPizzaVS.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
